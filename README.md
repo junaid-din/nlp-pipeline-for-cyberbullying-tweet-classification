@@ -14,4 +14,4 @@ Tasks completed:
 * Compared results and concluded that Linear SVC outperformed other models.
 * Suggested future improvement via ensemble learning (e.g., majority voting classifiers).
 
-![DL](images/dl.jpeg)
+![NLP](images/nlp.png)
