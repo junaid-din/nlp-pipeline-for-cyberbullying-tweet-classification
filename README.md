@@ -4,9 +4,9 @@ This project aims to develop a natural language processing (NLP) pipeline to cla
 
 Tasks completed:
 
-* Conducted a iterature review on prior use of NLP and classification models and the performance of these
-* Loaded and explored a labeled dataset of tweets related to cyberbullying
-* Built an NLP preprocessing pipeline which: expanded contractions, used the tweet preprocessor, used a defined clean function, tokenised and removed stopwords, perfromed lammatisation and removed repetitions
+* Conducted a literature review on prior use of NLP and classification models and the performance of these
+* Loaded and explored a labelled dataset of tweets related to cyberbullying
+* Built an NLP preprocessing pipeline which: expanded contractions, used the tweet preprocessor, used a defined clean function, tokenised and removed stopwords, performed lammatisation and removed repetitions
 * Transformed the cleaned text using TF-IDF vectorization
 * Implemented and trained three models: Linear Support Vector Classifier (SVC), Multinomial Naive Bayes and a Dummy Classifier as a performance baseline
 * Performed hyperparameter tuning with GridSearchCV
