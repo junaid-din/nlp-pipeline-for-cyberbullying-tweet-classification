@@ -1,4 +1,4 @@
-## NLP Pipeline for Cyberbullying Tweet Classification
+## Natural Language Processing (NLP) Pipeline and Classification of Cyberbullying Tweets
 
 This project aims to develop a natural language processing (NLP) pipeline to classify tweets based on whether they contain instances of cyberbullying. The goal is to contribute to efforts in detecting and preventing online harassment using NLP. Tweets were preprocessed through a robust NLP pipeline and vectorized using TF-IDF. Two classification models, Linear Support Vector Classifier (SVC) and Multinomial Naive Bayes, were trained and evaluated. A dummy classifier was used as a baseline. The models were then compared.
 
