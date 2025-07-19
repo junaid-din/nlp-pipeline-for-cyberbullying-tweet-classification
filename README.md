@@ -1,7 +1,5 @@
 ## NLP Pipeline for Cyberbullying Tweet Classification
 
-Created by [Junaid Din](https://github.com/junaid-din)
-
 This project aims to develop a natural language processing (NLP) pipeline to classify tweets based on whether they contain instances of cyberbullying. The goal is to contribute to efforts in detecting and preventing online harassment using NLP. Tweets were preprocessed through a robust NLP pipeline and vectorized using TF-IDF. Two classification models, Linear Support Vector Classifier (SVC) and Multinomial Naive Bayes, were trained and evaluated. A dummy classifier was used as a baseline. The models were then compared.
 
 Tasks completed:
@@ -17,3 +15,8 @@ Tasks completed:
 * Suggested future improvement via ensemble learning (e.g., majority voting classifiers).
 
 ![NLP](images/nlp.png)
+
+### 📄 License
+
+This project is licensed under the [MIT License](LICENSE).  
+© 2025 Junaid Din. **Use of this project requires attribution in accordance with the license terms.**
